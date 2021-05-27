@@ -1,5 +1,7 @@
 "# mernstack" 
 
+Live demo : https://mernsatacksatyam.herokuapp.com/
+
 open two terminal
 
 cd client
